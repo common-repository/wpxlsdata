@@ -1,0 +1,188 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Excel application Convert To db wordpress\n"
+"POT-Creation-Date: 2019-09-11 12:46-0700\n"
+"PO-Revision-Date: 2019-09-11 12:25-0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: wpxlsdata.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: inc/addmenue.php:193 inc/addmenue.php:589
+msgid "Setting"
+msgstr ""
+
+#: inc/addmenue.php:205 inc/addmenue.php:899
+msgid "Import"
+msgstr ""
+
+#: inc/addmenue.php:217
+msgid "Export"
+msgstr ""
+
+#: inc/addmenue.php:300
+msgid "Search text"
+msgstr ""
+
+#: inc/addmenue.php:301
+msgid "Search"
+msgstr ""
+
+#: inc/addmenue.php:308
+msgid "Next"
+msgstr ""
+
+#: inc/addmenue.php:313
+msgid "Prive"
+msgstr ""
+
+#: inc/addmenue.php:322 inc/addmenue.php:333 inc/addmenue.php:587
+#: inc/menue.php:230 inc/menue.php:240
+msgid "Row"
+msgstr ""
+
+#: inc/addmenue.php:327 inc/addmenue.php:338 inc/addmenue.php:624
+#: inc/addmenue.php:792 inc/menue.php:234 inc/menue.php:244
+msgid "Action"
+msgstr ""
+
+#: inc/addmenue.php:383 inc/menue.php:263
+msgid "Delete"
+msgstr ""
+
+#: inc/addmenue.php:418 inc/addmenue.php:657 inc/addmenue.php:824
+#: inc/menue.php:297
+msgid "Nonce error"
+msgstr ""
+
+#: inc/addmenue.php:588 inc/menue.php:231 inc/menue.php:241
+msgid "Title"
+msgstr ""
+
+#: inc/addmenue.php:609
+msgid "Unique"
+msgstr ""
+
+#: inc/addmenue.php:627
+msgid "Update"
+msgstr ""
+
+#: inc/addmenue.php:732 inc/addmenue.php:749 inc/menue.php:407
+msgid "Added Successfuly"
+msgstr ""
+
+#: inc/addmenue.php:740
+msgid "Updated Successfuly"
+msgstr ""
+
+#: inc/addmenue.php:794
+msgid "Add New"
+msgstr ""
+
+#: inc/addmenue.php:841 inc/menue.php:340
+msgid "File Type Must Be xls"
+msgstr ""
+
+#: inc/addmenue.php:863 inc/menue.php:360
+msgid "Error File Upload"
+msgstr ""
+
+#: inc/addmenue.php:909
+msgid "Importing data Please do not close the window tab"
+msgstr ""
+
+#: inc/addmenue.php:913
+msgid "Added "
+msgstr ""
+
+#: inc/addmenue.php:914
+msgid "Updated "
+msgstr ""
+
+#: inc/addmenue.php:953
+msgid "Please select format type"
+msgstr ""
+
+#: inc/addmenue.php:961
+msgid "Export data"
+msgstr ""
+
+#: inc/addmenue.php:951
+msgid ""
+"\n"
+"\n"
+"      <p> "
+msgstr ""
+
+#: inc/menue.php:232 inc/menue.php:242
+msgid "Name"
+msgstr ""
+
+#: inc/menue.php:233 inc/menue.php:243 inc/menue.php:446
+msgid "Description"
+msgstr ""
+
+#: inc/menue.php:303
+msgid "Title Is Empty"
+msgstr ""
+
+#: inc/menue.php:307
+msgid "Name Is Empty"
+msgstr ""
+
+#: inc/menue.php:311
+msgid "Name Not English Text"
+msgstr ""
+
+#: inc/menue.php:315
+msgid "Xls File Not Selected"
+msgstr ""
+
+#: inc/menue.php:323
+msgid "Name Can Not Be =="
+msgstr ""
+
+#: inc/menue.php:427
+msgid "Title Menue"
+msgstr ""
+
+#: inc/menue.php:436
+msgid "Name !Must be English"
+msgstr ""
+
+#: inc/menue.php:455
+msgid "Xls File"
+msgstr ""
+
+#: inc/menue.php:465
+msgid "Add"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Excel application Convert To db wordpress"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "A Plugin For Get Product Info From Trendyol.com"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Mandegarweb Team"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://mandegarweb.com/"
+msgstr ""

@@ -1,0 +1,6 @@
+{
+    "require": {
+        "asan/phpexcel": "^2.0",
+        "ellumilel/php-excel-writer": "^0.1.7"
+    }
+}
